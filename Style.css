@@ -1,0 +1,12 @@
+body{
+  background-color:aliceblue;
+}
+.Header1{
+  color:brown;
+  font-weight: bold;
+  
+}
+.button:hover {
+  background-color: rgb(167, 55, 88); 
+  color: white;
+}
